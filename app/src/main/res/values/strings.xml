@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DualFiles</string>
+    <string name="subtitle_dual_pane">Material 3 Dual-Pane File Manager</string>
+    <string name="pane_left_label">Pane A</string>
+    <string name="pane_right_label">Pane B</string>
+    <string name="action_move_mode">Move on Drop</string>
+    <string name="action_copy_mode">Copy on Drop</string>
+    <string name="action_split_horizontal">Side-by-Side</string>
+    <string name="action_split_vertical">Top-and-Bottom</string>
+    <string name="action_swap_panes">Swap Panes</string>
+    <string name="action_sync_panes">Mirror Path</string>
+    <string name="action_new_folder">New Folder</string>
+    <string name="action_new_file">New File</string>
+    <string name="action_import_saf">Import Files</string>
+    <string name="action_compress_zip">Compress to ZIP</string>
+    <string name="action_extract_zip">Extract Here</string>
+    <string name="action_transfer_history">Transfer Log</string>
+    <string name="action_storage_insights">Storage Insights</string>
+    <string name="action_undo">Undo</string>
+    <string name="search_placeholder">Search files in both panes…</string>
+    <string name="empty_folder_title">Folder is empty</string>
+    <string name="empty_folder_subtitle">Drag and drop files here from the other pane or create a new item.</string>
+    <string name="drop_zone_move_here">Drop to MOVE into %1$s</string>
+    <string name="drop_zone_copy_here">Drop to COPY into %1$s</string>
+    <string name="drop_zone_folder_target">Drop into folder \"%1$s\"</string>
+</resources>

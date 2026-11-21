@@ -1,0 +1,6 @@
+{
+  "name": "DualFiles Material",
+  "description": "An advanced dual-pane file manager with real-time drag-and-drop file transfers, storage analytics, archive management, and refined Material You aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
